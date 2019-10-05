@@ -1,0 +1,2 @@
+# etnografia
+Ejercicio de clase
